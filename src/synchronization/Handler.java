@@ -11,6 +11,7 @@ import java.util.Random;
 /**
  *
  * @author Satria Ramadhani
+ * @modifier Yusuf
  */
 public class Handler implements GameInterface
 {
