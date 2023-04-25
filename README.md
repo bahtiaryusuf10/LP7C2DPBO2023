@@ -18,4 +18,5 @@
 3. Buatlah sistem game yang menambahkan satu kotak atau objek apapun secara acak. Jika pemain menyentuh objek tersebut, skor bertambah +5 atau +10, lalu objek akan berpindah lagi ke posisi lain secara acak.
 
 <br>
+
 ## Dokumentasi
