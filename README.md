@@ -1,11 +1,9 @@
 ### Saya Muhammad Yusuf Bahtiar NIM 2107980 mengerjakan Latihan 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-
 <br>
 
 ## Program
 - Tombol untuk mengendalikan bola menggunakan _WASD_ atau _arrow key_.
 - Terdapat simulasi collision, yakni ketika _player_ menyentuh objek berbentuk persegi, maka persegi tersebut akan berpindah tempat secara acak.
-
 <br>
 
 ## Deskripsi Tugas
